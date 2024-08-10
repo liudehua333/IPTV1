@@ -1,0 +1,10 @@
+[
+{"name":"shaonv","url":"http://west.shaonv.me/tvbox/live.txt"},
+{"name":"MY直播","type":0,"url":"http://0tt118.getenjoyment.net/iptvplus.m3u","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"YanG直播","type":0,"url":"https://tv.iill.top/m3u/Live"},
+{"name":"YanG体育","type":0,"url":"https://tv.iill.top/m3u/Sport"},
+{"name":"YueChan","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"},
+{"name":"YuanHsing油管V","url":"https://fongmi.cachefly.net/YuanHsing/YouTube_to_m3u/main/youtube.m3u"},
+{"name":"俊于综合","url":"http://home.jundie.top:81/Cat/tv/live.txt"},
+{"name":"港台V","url":"http://s5x2olrnb.hn-bkt.clouddn.com/livetv26.txt"}
+]
