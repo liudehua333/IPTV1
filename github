@@ -50,7 +50,7 @@
 			"changeable": 0,
                   "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/liudehua333/IPTV1/Master/pg.jar",
 			"ext":{
-				"type":"音乐#演唱会#电影#电视剧#纪录片#综艺#影视#知识#美食#风光#田园#户外#8K",
+				"type":"音乐#演唱会#电影#电视剧#纪录片#综艺#知识#美食#风光#田园#户外#8K",
 				"cookie":""
 			}
 		},
